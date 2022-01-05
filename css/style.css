@@ -72,6 +72,7 @@ body {
 .panel > p:nth-child(2) {
   font-size: 9rem;
   cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .panel.open {
@@ -133,6 +134,14 @@ body {
 @media screen and (max-width: 580px) {
   html {
     font-size: 4px;
+  }
+
+  .open-active > p:first-child {
+    transform: translateY(50%);
+  }
+
+  .open-active > p:last-child {
+    transform: translateY(-50%);
   }
 }
 
