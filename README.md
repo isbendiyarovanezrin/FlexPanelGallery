@@ -7,6 +7,6 @@
 
 ##### Preview
 
-![Flex Panel Gallery](https://i.postimg.cc/Bnnk5nN3/fp.gif)
+![Flex Panel Gallery](https://i.postimg.cc/Bnnk5nN3/fpp.gif)
 
 <div>
