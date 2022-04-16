@@ -7,7 +7,7 @@
   --bg-blend-mode-clr1: #ea9df0fb;
   --bg-blend-mode-clr2: #e9b981e5;
   --bg-blend-mode-clr3: #f1c166f6;
-  --bg-blend-mode-clr4: #b1dd5edc;
+  --bg-blend-mode-clr4: #b1dd5ed3;
   --bg-blend-mode-clr5: #dd3a1dc4;
   --font-family: "Amatic SC", cursive;
 }
@@ -64,7 +64,7 @@ body {
 }
 
 .panel4 {
-  background-image: url(../img/tree.avif);
+  background-image: url(../img/tree.jpg);
   background-color: var(--bg-blend-mode-clr4);
 }
 
