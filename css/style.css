@@ -55,6 +55,7 @@ body {
   background-image: url(../img/blue.jfif);
   background-position: 75%;
   background-color: var(--bg-blend-mode-clr2);
+  filter: contrast(103%);
 }
 
 .panel3 {
@@ -66,6 +67,7 @@ body {
 .panel4 {
   background-image: url(../img/tree.jpg);
   background-color: var(--bg-blend-mode-clr4);
+  filter: contrast(103%);
 }
 
 .panel5 {
