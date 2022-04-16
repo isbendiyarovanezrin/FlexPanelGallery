@@ -5,8 +5,6 @@
   
 #### You can view the project [here](https://isbendiyarovanezrin.github.io/FlexPanelGallery "Click me!✨").
 
-##### Screenshot
-
-![Flex Panel Gallery](https://i.postimg.cc/ZKWBgrwD/fp.png)
+!["Flex panel gallery" project screenshot](https://i.postimg.cc/ZKWBgrwD/fp.png)
 
 <div>
